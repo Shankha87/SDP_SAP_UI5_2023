@@ -3,6 +3,7 @@ sap.ui.define([
 ],
     /**
      * @param {typeof sap.ui.core.mvc.Controller} Controller
+     * added a new comment after GitLens Integration
      */
     function (Controller) {
         "use strict";
